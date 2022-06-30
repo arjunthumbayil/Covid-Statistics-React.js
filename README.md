@@ -1,5 +1,5 @@
 ## Deployed @
-https://covid-19-tracker-23bbb.web.app/
+https://covid-19-app-17f14.web.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
